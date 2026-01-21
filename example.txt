@@ -11,5 +11,6 @@ My Grocery List
 - Bread 
 - Oranges
 - Soda 
+- Schampo
 
 
