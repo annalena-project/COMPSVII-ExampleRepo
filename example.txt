@@ -2,9 +2,6 @@ My Grocery List
 - Apples
 - Bananas
 - Potato Chips
-- Eggs
-- Butter
-- Sugar
 - Lemons
 - Milk 
 - Candy 
@@ -12,5 +9,3 @@ My Grocery List
 - Oranges
 - Soda 
 - Schampo
-
-
